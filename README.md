@@ -1,3 +1,9 @@
-# angular-ivy-nvowae
+# Elwood: CORE  
+This is a baseline angular project used for all demo applications developed by Elwood Berry.  
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-nvowae)
+# Log  
+
+## ANGULAR.JSON  
+Modifcations made to this project's [Angular workspace configuration](https://angular.io/guide/workspace-config).  
+
+Usee SASS and prefix everything with 'elwood'
