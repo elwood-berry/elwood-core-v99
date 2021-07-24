@@ -23,7 +23,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "_assets/scss/elwood-core.scss"
             ],
             "scripts": []
           },
